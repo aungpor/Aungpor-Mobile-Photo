@@ -1,0 +1,6 @@
+{
+  "name": "SnapShot Mobile",
+  "description": "A minimalist mobile web camera app to capture and preview photos instantly.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
